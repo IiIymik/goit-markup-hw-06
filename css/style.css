@@ -598,6 +598,9 @@ transition: background-color 250ms var(--timing-fn);
   border-radius: 4px;
   outline: none;
 }
+.adress-form-wrapper{
+  display: flex;
+}
 .adress-btn-icon{
   margin-left: 10px;
 }
